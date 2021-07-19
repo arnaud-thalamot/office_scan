@@ -1,12 +1,12 @@
 ########################################################################################################################
 #                                                                                                                      #
-#                                   Antivirus attribute for Antivirus Cookbook                                                 #
+#                                   Antivirus attribute for Antivirus Cookbook                                         #
 #                                                                                                                      #
 #   Language            : Chef/Ruby                                                                                    #
 #   Date                : 23.11.2016                                                                                   #
 #   Date Last Update    : 23.11.2016                                                                                   #
 #   Version             : 0.1                                                                                          #
-#   Author              : Bhushan Borole - IBM India                                                                   #
+#   Author              : Arnaud THALAMOT                                                                              #
 #                                                                                                                      #
 ########################################################################################################################
 

@@ -1,8 +1,7 @@
 #
-# Cookbook Name:: SESDR
+# Cookbook Name:: Office Scan
 # Spec:: default
 #
-# Copyright (c) 2016 The Authors, All Rights Reserved.
 
 describe 'antivirus_win::install' do
   context 'When all attributes are default, on an unspecified platform' do
