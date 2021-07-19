@@ -36,11 +36,3 @@ The following attributes are set by default
   default['antivirus']['alreadyInstalledFile'] = ''        # Installed file for antivirus agent
   default['antivirus']['install_path'] = ''                # Path for antivirus installation
 
-
-License & Authors
-
-    Author:: Bhushan Borole
-    License :: IBM
-
-Access to this code is restricted to IBM. To gain access to files and folders in this cookbook, procure the rights and permissions from IBM.
-
